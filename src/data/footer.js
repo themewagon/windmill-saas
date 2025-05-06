@@ -17,7 +17,7 @@ export const footer = {
   social: [
     {
       icon: "tabler:brand-x",
-      url: "https://twitter.com/bansal_io",
+      url: "#",
     },
     {
       icon: "tabler:brand-instagram",
