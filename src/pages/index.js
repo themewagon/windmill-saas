@@ -9,7 +9,7 @@ import {
   PricingSection,
   LargeFeatureSection,
   CtaSection,
-} from "./src/components/sections";
+} from "../components/sections";
 
 import {
   header,
