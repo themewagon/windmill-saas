@@ -13,7 +13,7 @@ export function Footer({ copyright, logo, links, social, ...rest }) {
           )}
         >
           <img
-            src="/logo.png"
+            src="./logo.png"
             alt="logo"
             className="h-10 w-auto opacity-70 hover:opacity-100 dark:invert"
           />

@@ -1,7 +1,7 @@
 export const footer = {
   copyright: "2024 Your Company. All rights reserved.",
   logo: {
-    src: "/logo.png",
+    src: "./logo.png",
     alt: "logo",
   },
   links: [

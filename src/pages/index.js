@@ -58,7 +58,7 @@ export default function Home() {
           },
         ]}
         image={{
-          src: "/tablet-mockup.png",
+          src: "./tablet-mockup.png",
           alt: "Product Screenshot on Tablet",
           className: "w-full h-auto",
         }}
@@ -76,7 +76,7 @@ export default function Home() {
         description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
         list={features.slice(0, 3)}
         image={{
-          src: "/phone-mockup.png",
+          src: "./phone-mockup.png",
           alt: "Image",
           className:
             "w-full aspect-square object-contain rotate-6 hover:rotate-0 duration-300 ease-in-out",
@@ -88,7 +88,7 @@ export default function Home() {
         description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
         list={features.slice(0, 3)}
         image={{
-          src: "/phone-mockup.png",
+          src: "./phone-mockup.png",
           alt: "Image",
           className:
             "w-full aspect-square object-contain -rotate-6 hover:rotate-0 duration-300 ease-in-out",
