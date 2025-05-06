@@ -16,7 +16,7 @@ export const pricing = [
     ],
     button: {
       label: "Get started",
-      href: "/signup",
+      href: "#",
       color: "light",
       icon: "tabler:arrow-right",
     },
@@ -38,7 +38,7 @@ export const pricing = [
     ],
     button: {
       label: "Start free trial",
-      href: "/signup",
+      href: "#",
       icon: "tabler:rocket",
     },
   },
@@ -59,7 +59,7 @@ export const pricing = [
     ],
     button: {
       label: "Contact sales",
-      href: "/contact",
+      href: "#",
       color: "light",
       icon: "tabler:mail",
     },
