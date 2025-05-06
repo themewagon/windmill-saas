@@ -2,7 +2,7 @@ export const header = {
   logo: {
     src: "./logo-mark.png",
     alt: "logo",
-    href: "/",
+    href: "",
   },
   links: [
     {
